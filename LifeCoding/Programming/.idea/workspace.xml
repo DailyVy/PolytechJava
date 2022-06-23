@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a3bd7235-9e31-41f7-9304-e3892c747dc3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="26jwBGzjnVbI3K82ChAW3oIpKxw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\LifeCoding\Programming\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.OkJavaGoInHomeInput + &quot;쁨이집 APT 1004&quot; &quot;45.0&quot; (1)">
+    <configuration name="OkJavaGoInHome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OkJavaGoInHome" />
+      <module name="Programming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OkJavaGoInHomeInput + &quot;쁨이집 APT 1004&quot; &quot;45.0&quot; (1)" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="OkJavaGoInHomeInput" />
+      <module name="Programming" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;쁨이집 APT 1004&quot; &quot;45.0&quot;" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OkJavaGoInHomeInput + &quot;JAVA APT 507&quot; &quot;15.0&quot;" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="OkJavaGoInHomeInput" />
+      <module name="Programming" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;JAVA APT 507&quot; &quot;15.0&quot;" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.OkJavaGoInHomeInput + &quot;쁨이집 APT 1004&quot; &quot;45.0&quot; (1)" />
+      <item itemvalue="Application.OkJavaGoInHome" />
+      <item itemvalue="Application.OkJavaGoInHomeInput + &quot;JAVA APT 507&quot; &quot;15.0&quot;" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.OkJavaGoInHomeInput + &quot;JAVA APT 507&quot; &quot;15.0&quot;" />
+        <item itemvalue="Application.OkJavaGoInHome" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3bd7235-9e31-41f7-9304-e3892c747dc3" name="Default Changelist" comment="" />
+      <created>1647950168000</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647950168000</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/OkJavaGoInHomeInput.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="id" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

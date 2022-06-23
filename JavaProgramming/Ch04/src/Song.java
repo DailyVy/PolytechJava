@@ -1,0 +1,22 @@
+public class Song {
+    private String title;
+    private String artist;
+    private int year;
+    private String country;
+
+    Song() {
+        this("제목없음", "이름없는 가수", 0, "국적모름");
+    }
+    Song(String title, String artist, int year, String country) {
+        this.title = title;
+        this.artist = artist;
+        this.year = year;
+        this.country = country;
+    }
+
+    void show() {
+        System.out.println(year + "년 " + country + "국적의 " + artist + "가 부른 " + title);
+    }
+
+
+}
