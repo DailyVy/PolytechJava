@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MachineLearning/220314/220314.iml" filepath="$PROJECT_DIR$/MachineLearning/220314/220314.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStruct/ArrayList0413/ArrayList0413.iml" filepath="$PROJECT_DIR$/DataStruct/ArrayList0413/ArrayList0413.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStruct/ArrayList0415/ArrayList0415.iml" filepath="$PROJECT_DIR$/DataStruct/ArrayList0415/ArrayList0415.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStruct/ArrayListPrac/ArrayListPrac.iml" filepath="$PROJECT_DIR$/DataStruct/ArrayListPrac/ArrayListPrac.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStruct/BFS/BFS.iml" filepath="$PROJECT_DIR$/DataStruct/BFS/BFS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaProgramming/Ch02/Ch02.iml" filepath="$PROJECT_DIR$/JavaProgramming/Ch02/Ch02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaProgramming/Ch03/Ch03.iml" filepath="$PROJECT_DIR$/JavaProgramming/Ch03/Ch03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaProgramming/Ch04/Ch04.iml" filepath="$PROJECT_DIR$/JavaProgramming/Ch04/Ch04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaProgramming/Ch05/Ch05.iml" filepath="$PROJECT_DIR$/JavaProgramming/Ch05/Ch05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Oh/ChoiBigyeol/ChoiBigyeol.iml" filepath="$PROJECT_DIR$/Java_Oh/ChoiBigyeol/ChoiBigyeol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LifeCoding/Data_and_Operation/Data_and_Operation.iml" filepath="$PROJECT_DIR$/LifeCoding/Data_and_Operation/Data_and_Operation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MachineLearning/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/MachineLearning/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JAVAJAVA.iml" filepath="$PROJECT_DIR$/.idea/JAVAJAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVATEST/JAVATEST.iml" filepath="$PROJECT_DIR$/JAVATEST/JAVATEST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaPractice/JavaPractice.iml" filepath="$PROJECT_DIR$/JavaPractice/JavaPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Oh/Java_Oh.iml" filepath="$PROJECT_DIR$/Java_Oh/Java_Oh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_book/Java_book.iml" filepath="$PROJECT_DIR$/Java_book/Java_book.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStruct/LinkedList0420/LinkedList0420.iml" filepath="$PROJECT_DIR$/DataStruct/LinkedList0420/LinkedList0420.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStruct/LinkedList0422/LinkedList0422.iml" filepath="$PROJECT_DIR$/DataStruct/LinkedList0422/LinkedList0422.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStruct/LinkedListPrac/LinkedListPrac.iml" filepath="$PROJECT_DIR$/DataStruct/LinkedListPrac/LinkedListPrac.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStruct/ListPractice0514/ListPractice0514.iml" filepath="$PROJECT_DIR$/DataStruct/ListPractice0514/ListPractice0514.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStruct/MyQueue/MyQueue.iml" filepath="$PROJECT_DIR$/DataStruct/MyQueue/MyQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStruct/MyStack/MyStack.iml" filepath="$PROJECT_DIR$/DataStruct/MyStack/MyStack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MachineLearning/PracticeTest/PracticeTest.iml" filepath="$PROJECT_DIR$/MachineLearning/PracticeTest/PracticeTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LifeCoding/Programming/Programming.iml" filepath="$PROJECT_DIR$/LifeCoding/Programming/Programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStruct/Recap/Recap.iml" filepath="$PROJECT_DIR$/DataStruct/Recap/Recap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MachineLearning/SalmonBass/SalmonBass.iml" filepath="$PROJECT_DIR$/MachineLearning/SalmonBass/SalmonBass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStruct/SortPractice/SortPractice.iml" filepath="$PROJECT_DIR$/DataStruct/SortPractice/SortPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStruct/Sorting/Sorting.iml" filepath="$PROJECT_DIR$/DataStruct/Sorting/Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStruct/Sorting0520/Sorting0520.iml" filepath="$PROJECT_DIR$/DataStruct/Sorting0520/Sorting0520.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStruct/Tree0610/Tree0610.iml" filepath="$PROJECT_DIR$/DataStruct/Tree0610/Tree0610.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStruct/TreePractice/TreePractice.iml" filepath="$PROJECT_DIR$/DataStruct/TreePractice/TreePractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LifeCoding/hello_world/hello_world.iml" filepath="$PROJECT_DIR$/LifeCoding/hello_world/hello_world.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MachineLearning/simple_cls/simple_cls.iml" filepath="$PROJECT_DIR$/MachineLearning/simple_cls/simple_cls.iml" />
+    </modules>
+  </component>
+</project>
